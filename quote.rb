@@ -1,0 +1,3 @@
+#Show command
+
+%x`ls`

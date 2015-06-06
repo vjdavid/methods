@@ -1,0 +1,2 @@
+
+fail("Launch a fail")

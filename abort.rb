@@ -1,0 +1,3 @@
+#Terminate execution immediately
+
+abort()
